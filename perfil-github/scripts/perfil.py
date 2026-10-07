@@ -121,6 +121,11 @@ def defs(c):
 </defs>"""
 
 
+def attr(texto):
+    """Escapa texto para dentro de atributo (aspas incluídas)."""
+    return escape(texto, {'"': "&quot;"})
+
+
 def atraso(s):
     return f'style="animation-delay:{s:.2f}s"'
 
@@ -146,7 +151,7 @@ def linhas(cls, x, y0, passo, textos, anchor="start"):
 
 def salvar(destino, c, w, h, titulo, corpo, css_extra=""):
     destino.write_text(
-        f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{escape(titulo)}">
+        f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{attr(titulo)}">
 <title>{escape(titulo)}</title>
 <style>{css_base(c)}{css_extra}</style>
 {defs(c)}
@@ -354,13 +359,13 @@ def escudo(texto):
 
 
 def badge(rotulo, cor, logo, logo_cor, url=None, alt=None):
-    img = f'<img src="https://img.shields.io/badge/{escudo(rotulo)}-{cor.lstrip("#")}?style=for-the-badge&logo={logo}&logoColor={logo_cor.lstrip("#")}" alt="{escape(alt or rotulo)}" />'
+    img = f'<img src="https://img.shields.io/badge/{escudo(rotulo)}-{cor.lstrip("#")}?style=for-the-badge&logo={logo}&logoColor={logo_cor.lstrip("#")}" alt="{attr(alt or rotulo)}" />'
     return f'<a href="{url}">{img}</a>' if url else img
 
 
 def picture(nome, alt, largura_desktop="100%"):
     return (f'<picture>\n  <source media="(max-width: 700px)" srcset="assets/{nome}-celular.svg" />\n'
-            f'  <img src="assets/{nome}.svg" width="{largura_desktop}" alt="{escape(alt)}" />\n</picture>')
+            f'  <img src="assets/{nome}.svg" width="{largura_desktop}" alt="{attr(alt)}" />\n</picture>')
 
 
 def montar_readme(cfg, feitos):
@@ -375,7 +380,7 @@ def montar_readme(cfg, feitos):
     out.append(
         f'<img src="https://capsule-render.vercel.app/api?type=waving&color=0:{claro},100:{escuro}&height=200&section=header'
         f'&text={quote(cfg["nome"])}&fontColor={tinta_escura}&fontSize=44&fontAlignY=36&desc={quote(cfg.get("frase", ""))}'
-        f'&descAlignY=58&descColor={tinta_escura}&descSize=19&animation=fadeIn" width="100%" alt="{escape(cfg["nome"])}" />')
+        f'&descAlignY=58&descColor={tinta_escura}&descSize=19&animation=fadeIn" width="100%" alt="{attr(cfg["nome"])}" />')
     out.append("")
     if cfg.get("linhas_digitando"):
         ls = ";".join(quote(l).replace("%20", "+") for l in cfg["linhas_digitando"])
