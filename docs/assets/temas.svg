@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="492" viewBox="0 0 860 492" role="img" aria-label="Os quatro temas: champagne, esmeralda, oceano, grafite">
+<title>Os quatro temas: champagne, esmeralda, oceano, grafite</title>
+<style>
+.t0 .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.t0 .run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.t0 .shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.t0 .ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.t0 .emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.t0 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.t0 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.t0 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#D6BD8F}
+.t0 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t0 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.t0 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
+.t0 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t0 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.t0 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
+.t0 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.t0 .ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.t0 .gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.t0 .pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.t0 .ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.t0 .at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.t0 .as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.t0 .ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#D6BD8F}
+.t0 .al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+
+.t1 .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.t1 .run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.t1 .shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.t1 .ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.t1 .emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.t1 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
+.t1 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#93A99D}
+.t1 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#3DDC97}
+.t1 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t1 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C3D6CB}
+.t1 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#7E9488}
+.t1 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t1 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C3D6CB}
+.t1 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#3DDC97}
+.t1 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
+.t1 .ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#93A99D}
+.t1 .gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
+.t1 .pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
+.t1 .ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#93A99D}
+.t1 .at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
+.t1 .as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#93A99D}
+.t1 .ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#3DDC97}
+.t1 .al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C3D6CB}
+
+.t2 .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.t2 .run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.t2 .shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.t2 .ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.t2 .emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.t2 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.t2 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.t2 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#6CB6FF}
+.t2 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t2 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+.t2 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#7F8CA3}
+.t2 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t2 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+.t2 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#6CB6FF}
+.t2 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.t2 .ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.t2 .gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.t2 .pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.t2 .ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.t2 .at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.t2 .as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.t2 .ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#6CB6FF}
+.t2 .al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+
+.t3 .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.t3 .run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.t3 .shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.t3 .ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.t3 .emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.t3 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.t3 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.t3 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#E6E6E6}
+.t3 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t3 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
+.t3 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8A8A8A}
+.t3 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t3 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
+.t3 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#E6E6E6}
+.t3 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.t3 .ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.t3 .gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.t3 .pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.t3 .ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.t3 .at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.t3 .as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.t3 .ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#E6E6E6}
+.t3 .al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
+</style>
+<defs>
+<linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh0" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs><defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7FF0BE"/><stop offset="1" stop-color="#1E8C5E"/></linearGradient>
+<linearGradient id="sh1" x1="0" x2="1"><stop offset="0" stop-color="#D9FBEA" stop-opacity="0"/><stop offset=".5" stop-color="#D9FBEA" stop-opacity=".09"/><stop offset="1" stop-color="#D9FBEA" stop-opacity="0"/></linearGradient>
+</defs><defs>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A5D3FF"/><stop offset="1" stop-color="#2F6FB8"/></linearGradient>
+<linearGradient id="sh2" x1="0" x2="1"><stop offset="0" stop-color="#DCEEFF" stop-opacity="0"/><stop offset=".5" stop-color="#DCEEFF" stop-opacity=".09"/><stop offset="1" stop-color="#DCEEFF" stop-opacity="0"/></linearGradient>
+</defs><defs>
+<linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#8A8A8A"/></linearGradient>
+<linearGradient id="sh3" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".09"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+</defs>
+<g transform="translate(0.0,0)"><g class="t0"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="ct0"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#ct0)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh0)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g0)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🎧</text>
+<text class="ct" x="76" y="40">Triagem de suporte</text>
+<text class="cs" x="76" y="59">rede de academias</text>
+<rect x="309.4" y="22" width="88.6" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="353.7" y="37.0" text-anchor="middle">CHAMPAGNE</text>
+<g class="up" style="animation-delay:0.10s"><text class="cn" x="22" y="138">40 h</text></g>
+<g class="up" style="animation-delay:0.35s"><text class="cl" x="24" y="166" text-anchor="start">por semana devolvidas</text><text class="cl" x="24" y="185" text-anchor="start">ao time de atendimento</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.50s"/>
+<g class="up" style="animation-delay:0.60s"><text class="cf" x="24" y="219">12 unidades · WhatsApp e e-mail</text></g></g></g><g transform="translate(440.0,0)"><g class="t1"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1512" stroke="#22302A"/>
+<clipPath id="ct1"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#ct1)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh1)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g1)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#16201B" stroke="#22302A"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🎧</text>
+<text class="ct" x="76" y="40">Triagem de suporte</text>
+<text class="cs" x="76" y="59">rede de academias</text>
+<rect x="309.4" y="22" width="88.6" height="22" rx="11.0" fill="#16201B" stroke="#2E4038"/><text class="cp" x="353.7" y="37.0" text-anchor="middle">ESMERALDA</text>
+<g class="up" style="animation-delay:0.25s"><text class="cn" x="22" y="138">40 h</text></g>
+<g class="up" style="animation-delay:0.50s"><text class="cl" x="24" y="166" text-anchor="start">por semana devolvidas</text><text class="cl" x="24" y="185" text-anchor="start">ao time de atendimento</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#22302A" pathLength="100" style="animation-delay:0.65s"/>
+<g class="up" style="animation-delay:0.75s"><text class="cf" x="24" y="219">12 unidades · WhatsApp e e-mail</text></g></g></g><g transform="translate(0.0,256)"><g class="t2"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1420" stroke="#232D40"/>
+<clipPath id="ct2"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#ct2)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh2)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g2)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#161D2C" stroke="#232D40"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🎧</text>
+<text class="ct" x="76" y="40">Triagem de suporte</text>
+<text class="cs" x="76" y="59">rede de academias</text>
+<rect x="331.6" y="22" width="66.4" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="364.8" y="37.0" text-anchor="middle">OCEANO</text>
+<g class="up" style="animation-delay:0.40s"><text class="cn" x="22" y="138">40 h</text></g>
+<g class="up" style="animation-delay:0.65s"><text class="cl" x="24" y="166" text-anchor="start">por semana devolvidas</text><text class="cl" x="24" y="185" text-anchor="start">ao time de atendimento</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.80s"/>
+<g class="up" style="animation-delay:0.90s"><text class="cf" x="24" y="219">12 unidades · WhatsApp e e-mail</text></g></g></g><g transform="translate(440.0,256)"><g class="t3"><rect x="1" y="1" width="418" height="234" rx="16" fill="#141414" stroke="#2A2A2A"/>
+<clipPath id="ct3"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#ct3)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh3)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g3)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1C1C1C" stroke="#2A2A2A"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🎧</text>
+<text class="ct" x="76" y="40">Triagem de suporte</text>
+<text class="cs" x="76" y="59">rede de academias</text>
+<rect x="324.2" y="22" width="73.8" height="22" rx="11.0" fill="#1C1C1C" stroke="#3A3A3A"/><text class="cp" x="361.1" y="37.0" text-anchor="middle">GRAFITE</text>
+<g class="up" style="animation-delay:0.55s"><text class="cn" x="22" y="138">40 h</text></g>
+<g class="up" style="animation-delay:0.80s"><text class="cl" x="24" y="166" text-anchor="start">por semana devolvidas</text><text class="cl" x="24" y="185" text-anchor="start">ao time de atendimento</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2A2A" pathLength="100" style="animation-delay:0.95s"/>
+<g class="up" style="animation-delay:1.05s"><text class="cf" x="24" y="219">12 unidades · WhatsApp e e-mail</text></g></g></g>
+</svg>

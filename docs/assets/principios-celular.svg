@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="292" viewBox="0 0 420 292" role="img" aria-label="Nome do cliente protegido, Número com fonte e data, Texto que cabe no cartão, Prévia antes de publicar, Celular também">
+<title>Nome do cliente protegido, Número com fonte e data, Texto que cabe no cartão, Prévia antes de publicar, Celular também</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#D6BD8F}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#D6BD8F}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+@keyframes ge0{0%,0%{stroke:#2A2723;fill:#151310}4%,18%{stroke:#D6BD8F;fill:#211C15}22%,100%{stroke:#2A2723;fill:#151310}}.ge0{animation:ge0 10s ease infinite}@keyframes ge1{0%,20%{stroke:#2A2723;fill:#151310}24%,38%{stroke:#D6BD8F;fill:#211C15}42%,100%{stroke:#2A2723;fill:#151310}}.ge1{animation:ge1 10s ease infinite}@keyframes ge2{0%,40%{stroke:#2A2723;fill:#151310}44%,58%{stroke:#D6BD8F;fill:#211C15}62%,100%{stroke:#2A2723;fill:#151310}}.ge2{animation:ge2 10s ease infinite}@keyframes ge3{0%,60%{stroke:#2A2723;fill:#151310}64%,78%{stroke:#D6BD8F;fill:#211C15}82%,100%{stroke:#2A2723;fill:#151310}}.ge3{animation:ge3 10s ease infinite}@keyframes ge4{0%,80%{stroke:#2A2723;fill:#151310}84%,98%{stroke:#D6BD8F;fill:#211C15}100%,100%{stroke:#2A2723;fill:#151310}}.ge4{animation:ge4 10s ease infinite}</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<g class="up" style="animation-delay:0.10s"><rect class="ge0" x="1" y="1" width="418" height="50" rx="12" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="emo" x="36" y="34" text-anchor="middle" style="font-size:20px">🔒</text><text class="gt" x="66" y="31" style="font-size:15px">Nome do cliente protegido</text></g>
+<g class="up" style="animation-delay:0.20s"><rect class="ge1" x="1" y="61" width="418" height="50" rx="12" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="emo" x="36" y="94" text-anchor="middle" style="font-size:20px">📏</text><text class="gt" x="66" y="91" style="font-size:15px">Número com fonte e data</text></g>
+<g class="up" style="animation-delay:0.30s"><rect class="ge2" x="1" y="121" width="418" height="50" rx="12" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="emo" x="36" y="154" text-anchor="middle" style="font-size:20px">✂️</text><text class="gt" x="66" y="151" style="font-size:15px">Texto que cabe no cartão</text></g>
+<g class="up" style="animation-delay:0.40s"><rect class="ge3" x="1" y="181" width="418" height="50" rx="12" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="emo" x="36" y="214" text-anchor="middle" style="font-size:20px">👀</text><text class="gt" x="66" y="211" style="font-size:15px">Prévia antes de publicar</text></g>
+<g class="up" style="animation-delay:0.50s"><rect class="ge4" x="1" y="241" width="418" height="50" rx="12" fill="#151310" stroke="#2A2723" stroke-width="1.4"/><text class="emo" x="36" y="274" text-anchor="middle" style="font-size:20px">📱</text><text class="gt" x="66" y="271" style="font-size:15px">Celular também</text></g>
+</svg>

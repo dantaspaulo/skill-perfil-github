@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="196" viewBox="0 0 840 196" role="img" aria-label="Descobrir, Perguntar, Montar, Conferir, Publicar">
+<title>Descobrir, Perguntar, Montar, Conferir, Publicar</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#D6BD8F}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#D6BD8F}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+@keyframes md0{0%,0%{fill:#151310;stroke:#3A352E}3%,90%{fill:#211C15;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.md0{animation:md0 9s ease infinite}@keyframes md1{0%,18%{fill:#151310;stroke:#3A352E}22%,90%{fill:#211C15;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.md1{animation:md1 9s ease infinite}@keyframes md2{0%,36%{fill:#151310;stroke:#3A352E}40%,90%{fill:#211C15;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.md2{animation:md2 9s ease infinite}@keyframes md3{0%,55%{fill:#151310;stroke:#3A352E}59%,90%{fill:#211C15;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.md3{animation:md3 9s ease infinite}@keyframes md4{0%,74%{fill:#151310;stroke:#3A352E}78%,90%{fill:#211C15;stroke:#D6BD8F}100%{fill:#151310;stroke:#3A352E}}.md4{animation:md4 9s ease infinite}.trilho{stroke-dasharray:100;stroke-dashoffset:100;animation:trilho 9s ease-in-out infinite}@keyframes trilho{0%{stroke-dashoffset:100;opacity:1}75%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}.ponto{animation:ponto 9s ease-in-out infinite}@keyframes ponto{0%{transform:translateX(0);opacity:1}75%{transform:translateX(672.0px);opacity:1}92%{opacity:0}100%{transform:translateX(0);opacity:0}}</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2CDA4"/><stop offset="1" stop-color="#8C7148"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="194" rx="18" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cd"><rect x="1" y="1" width="838" height="194" rx="18"/></clipPath>
+<g clip-path="url(#cd)"><g class="shine"><rect x="0" y="-20" width="150" height="236" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="838" height="194" rx="18" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<line x1="84.0" y1="62" x2="756.0" y2="62" stroke="#2A2723" stroke-width="2"/>
+<line class="trilho" x1="84.0" y1="62" x2="756.0" y2="62" stroke="#D6BD8F" stroke-width="2.4" pathLength="100"/>
+<circle class="md0" cx="84.0" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/><text class="mk" x="84.0" y="69" text-anchor="middle">1</text>
+<g class="up" style="animation-delay:0.15s"><text class="mt" x="84.0" y="120" text-anchor="middle">Descobrir</text><text class="ms" x="84.0" y="143" text-anchor="middle">lê perfil, site</text><text class="ms" x="84.0" y="161" text-anchor="middle">e LinkedIn</text></g>
+<circle class="md1" cx="252.0" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/><text class="mk" x="252.0" y="69" text-anchor="middle">2</text>
+<g class="up" style="animation-delay:0.30s"><text class="mt" x="252.0" y="120" text-anchor="middle">Perguntar</text><text class="ms" x="252.0" y="143" text-anchor="middle">só o que falta,</text><text class="ms" x="252.0" y="161" text-anchor="middle">com rascunho</text></g>
+<circle class="md2" cx="420.0" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/><text class="mk" x="420.0" y="69" text-anchor="middle">3</text>
+<g class="up" style="animation-delay:0.45s"><text class="mt" x="420.0" y="120" text-anchor="middle">Montar</text><text class="ms" x="420.0" y="143" text-anchor="middle">cartões e README</text><text class="ms" x="420.0" y="161" text-anchor="middle">a partir de um JSON</text></g>
+<circle class="md3" cx="588.0" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/><text class="mk" x="588.0" y="69" text-anchor="middle">4</text>
+<g class="up" style="animation-delay:0.60s"><text class="mt" x="588.0" y="120" text-anchor="middle">Conferir</text><text class="ms" x="588.0" y="143" text-anchor="middle">trava de nome,</text><text class="ms" x="588.0" y="161" text-anchor="middle">texto que cabe</text></g>
+<circle class="md4" cx="756.0" cy="62" r="22" fill="#151310" stroke="#3A352E" stroke-width="1.6"/><text class="mk" x="756.0" y="69" text-anchor="middle">5</text>
+<g class="up" style="animation-delay:0.75s"><text class="mt" x="756.0" y="120" text-anchor="middle">Publicar</text><text class="ms" x="756.0" y="143" text-anchor="middle">depois da prévia</text><text class="ms" x="756.0" y="161" text-anchor="middle">e do seu ok</text></g>
+<circle class="ponto" cx="84.0" cy="62" r="5" fill="#E2CDA4"/>
+</svg>

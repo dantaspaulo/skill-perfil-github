@@ -1,0 +1,113 @@
+{
+  "login": "ana-exemplo",
+  "nome": "Ana Exemplo",
+  "frase": "automatiza operações com IA",
+  "tema": "oceano",
+  "linhas_digitando": [
+    "Do processo manual ao sistema no ar",
+    "Engenheira de software · consultora de IA",
+    "Agentes que trabalham e prestam contas"
+  ],
+  "pitch": "Acho o trecho da operação onde a IA paga<br/>e entrego funcionando, com número antes e depois.",
+  "pitch_sub": "12 anos de software, os últimos 3 com LLMs, RAG e agentes.",
+  "contatos": {
+    "site": "https://exemplo.com",
+    "linkedin": "https://www.linkedin.com/in/ana-exemplo/",
+    "email": "contato@exemplo.com",
+    "agenda": "https://cal.com/ana-exemplo",
+    "local": "Recife/PE · remoto",
+    "outros": []
+  },
+  "papeis": [
+    { "icone": "🧭", "titulo": "Consultora de IA", "sub": "4 clientes ativos" },
+    { "icone": "🛠️", "titulo": "Engenheira", "sub": "plataforma na Empresa X" },
+    { "icone": "🎓", "titulo": "Mentora", "sub": "comunidade de devs" }
+  ],
+  "numeros": [
+    { "valor": "40 h", "rotulo": ["por semana devolvidas", "a um time de suporte"], "fonte": "medição do cliente, mar–abr/2026" },
+    { "valor": "3x", "rotulo": ["mais leads respondidos", "na primeira hora"], "fonte": "CRM do cliente, 30 dias antes e depois" },
+    { "valor": "12", "rotulo": ["anos de software", "em produção"], "fonte": "currículo" }
+  ],
+  "cases": [
+    {
+      "icone": "🎧", "nome": "Triagem de suporte", "sub": "rede de academias", "selo": "CLIENTE",
+      "numero": "40 h", "rotulo": ["por semana devolvidas", "ao time de atendimento"],
+      "rodape": "12 unidades · WhatsApp e e-mail", "anonimo": true,
+      "contexto": "consultoria",
+      "detalhe": {
+        "problema": "o time lia cada mensagem para decidir quem respondia; dúvida simples esperava horas.",
+        "solucao": "agente que classifica, responde o que é rotina com a base de conhecimento e passa o resto para a pessoa certa.",
+        "resultado": "40 horas por semana devolvidas ao time, medidas pelo próprio cliente em março e abril de 2026.",
+        "papel": "desenho do fluxo, integração com o helpdesk e as regras de passagem para humano."
+      }
+    },
+    {
+      "icone": "🧾", "nome": "Leitura de notas", "sub": "escritório contábil", "selo": "CLIENTE",
+      "numero": "98%", "rotulo": ["dos campos extraídos sem", "correção humana"],
+      "rodape": "OCR + LLM · conferência por amostra", "anonimo": true,
+      "contexto": "consultoria",
+      "detalhe": {
+        "problema": "notas em PDF e foto digitadas à mão no sistema contábil.",
+        "solucao": "extração com OCR e LLM, validação por regra e fila de revisão só para o que ficou em dúvida.",
+        "resultado": "98% dos campos sem correção, numa amostra de 500 notas conferida pelo cliente."
+      }
+    },
+    {
+      "icone": "📚", "nome": "Busca interna", "sub": "produto próprio", "selo": "PRODUTO",
+      "numero": "2 s", "rotulo": ["para achar a resposta", "com a fonte junto"],
+      "rodape": "RAG · Postgres + pgvector", "link": "https://exemplo.com/busca",
+      "contexto": "fundadora",
+      "detalhe": {
+        "problema": "a resposta existia em algum documento, mas ninguém achava.",
+        "solucao": "busca semântica que responde citando o trecho e o documento de origem."
+      }
+    },
+    {
+      "icone": "🧪", "nome": "Testes com agentes", "sub": "Empresa X", "selo": "EMPREGO",
+      "numero": "−60%", "rotulo": ["no tempo de revisão", "de pull request"],
+      "rodape": "agentes revisores + testes de mutação",
+      "contexto": "engenheira de plataforma",
+      "detalhe": {
+        "problema": "revisão de código era o gargalo do time.",
+        "solucao": "revisão adversarial por agentes antes da revisão humana, com testes de mutação no que mudou.",
+        "resultado": "tempo médio de revisão caiu 60% em um trimestre (painel interno do time)."
+      }
+    }
+  ],
+  "metodo": {
+    "passos": [
+      { "nome": "Entender", "sub": ["a operação,", "o gargalo e o custo"] },
+      { "nome": "Escolher", "sub": ["um caso de alto impacto,", "não dez de baixo"] },
+      { "nome": "Construir", "sub": ["protótipo em semanas,", "software no ar"] },
+      { "nome": "Medir", "sub": ["antes e depois,", "com número"] }
+    ],
+    "frase": "**Um caso que paga, depois o próximo.**"
+  },
+  "principios": {
+    "frase": "**Agente em produção precisa de governo:**",
+    "itens": [
+      { "icone": "🔐", "linhas": ["Menor", "privilégio"] },
+      { "icone": "🚦", "linhas": ["Pessoa no", "ponto certo"] },
+      { "icone": "🧪", "linhas": ["Teste que", "recusa"] },
+      { "icone": "📋", "linhas": ["Rastro", "de tudo"] }
+    ]
+  },
+  "abertos": [
+    { "icone": "🧰", "nome": "kit-de-agentes", "dono": "ana-exemplo", "linhas": ["modelos de agente prontos", "para atendimento"], "selo": "MEU", "link": "https://github.com/ana-exemplo/kit-de-agentes" },
+    { "icone": "🤝", "nome": "projeto-aberto", "dono": "org-exemplo", "linhas": ["contribuições em extração", "de documentos"], "selo": "CONTRIBUIÇÃO", "link": "https://github.com/org-exemplo/projeto-aberto" }
+  ],
+  "nota_repos": "O resto é código de cliente e de produto, em repositórios privados.",
+  "stack": {
+    "skillicons": ["python", "ts", "nextjs", "react", "postgres", "redis", "docker", "aws", "githubactions"],
+    "badges": [
+      { "nome": "Claude Code", "logo": "anthropic" },
+      { "nome": "OpenAI", "logo": "openai" },
+      { "nome": "n8n", "logo": "n8n" }
+    ]
+  },
+  "cta": {
+    "titulo": "Tem um processo manual que come o tempo do seu time?",
+    "sub": "Me conta qual é. Se eu não for a pessoa certa, digo na primeira conversa."
+  },
+  "fontes": "números medidos pelos clientes nos períodos citados em cada case."
+}
