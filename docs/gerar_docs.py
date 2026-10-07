@@ -59,7 +59,7 @@ def galeria_de_temas():
         k = dict(case, selo=nome.upper())
         w, h, corpo = perfil.peca_case(c, f"t{i}", 0.15 * i, k)
         corpo = corpo.replace('url(#g)', f'url(#g{i})').replace('url(#sh)', f'url(#sh{i})')
-        css = perfil.css_base(c)
+        css = perfil.css_base(c).replace("url(#g)", f"url(#g{i})")
         css = re.sub(r"(?m)^\.([a-z]{2,5})\{", lambda m: f".t{i} .{m.group(1)}{{", css)
         estilos.append(css)
         d = perfil.defs(c).replace('id="g"', f'id="g{i}"').replace('id="sh"', f'id="sh{i}"')

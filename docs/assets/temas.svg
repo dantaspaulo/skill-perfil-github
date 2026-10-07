@@ -13,10 +13,10 @@
 .t0 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
 .t0 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
 .t0 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#D6BD8F}
-.t0 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t0 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g0)}
 .t0 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
 .t0 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
-.t0 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t0 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g0)}
 .t0 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
 .t0 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#D6BD8F}
 .t0 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
@@ -41,10 +41,10 @@
 .t1 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
 .t1 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#93A99D}
 .t1 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#3DDC97}
-.t1 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t1 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g1)}
 .t1 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C3D6CB}
 .t1 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#7E9488}
-.t1 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t1 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g1)}
 .t1 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C3D6CB}
 .t1 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#3DDC97}
 .t1 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF4EE}
@@ -69,10 +69,10 @@
 .t2 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
 .t2 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
 .t2 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#6CB6FF}
-.t2 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t2 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g2)}
 .t2 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
 .t2 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#7F8CA3}
-.t2 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t2 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g2)}
 .t2 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
 .t2 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#6CB6FF}
 .t2 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
@@ -97,10 +97,10 @@
 .t3 .ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
 .t3 .cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
 .t3 .cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#E6E6E6}
-.t3 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t3 .cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g3)}
 .t3 .cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
 .t3 .cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8A8A8A}
-.t3 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.t3 .nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g3)}
 .t3 .nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
 .t3 .mk{font:400 20px Georgia,'Times New Roman',serif;fill:#E6E6E6}
 .t3 .mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
